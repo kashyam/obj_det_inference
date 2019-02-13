@@ -51,7 +51,7 @@ This module uses OpenCV's **cv.dnn.readNetFromTensorflow** to read the frozen in
   
   
   
-  ![jpg](/detections/bird11.jpg)
+  ![jpg](/detections/bird1.jpg)
   
   
   
