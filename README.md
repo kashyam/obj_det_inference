@@ -33,7 +33,7 @@ This module uses OpenCV's **cv.dnn.readNetFromTensorflow** to read the frozen in
   
   
   
-## Objects detected using the [odetector App](https://odetection.herokuapp.com/)  
+## Objects detected using the [oDetection App](https://odetection.herokuapp.com/)  
   
   
   ![jpg](/detections/elephant1.jpg)
