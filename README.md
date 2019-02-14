@@ -4,7 +4,7 @@
 ###### [Detect Object with oDetection App](https://odetection.herokuapp.com/)  
   
   
-## Oject Detection using OpenCV DNN
+## Object Detection using OpenCV DNN
 
 Model - [SSD Mobilenet Trained on COCO dataset](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md)  
 Applications - OpenCV / Flask  
